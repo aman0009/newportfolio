@@ -99,7 +99,7 @@
                         <p style="color: #213">
                             I enjoy building everything from small business sites to rich interactive web apps.
                             I have a diverse set of skills, ranging from design, to HTML + CSS + Javascript, all the way to PHP, NODEJS and MVC framework development including Linux server administration.
-                            <a href="resume_new.pdf" target="_blank">DOWNLOAD MY CV<i class="fa fa-download" aria-hidden="true"></i>
+                            <a href="resume.pdf" target="_blank">DOWNLOAD MY CV<i class="fa fa-download" aria-hidden="true"></i>
                         </a>
                      
                 </div>
